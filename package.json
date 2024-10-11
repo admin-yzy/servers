@@ -1,0 +1,16 @@
+{
+  "name": "servers",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "blog": "node blog-server/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "koa": "^2.15.3",
+    "koa-router": "^13.0.1"
+  }
+}
